@@ -30,4 +30,4 @@ Previously, she held research positions at Twitter, Meta, and Spotify across Res
 
 Her current research studies the societal impacts of agentic and generative systems, building technical mitigations and the evidence base for the policies institutions actually adopt. Recent work examines turning agentic governance proposals into testable evaluations, the limits of prompts-as-policy under fine-tuning, and persuasive dark patterns in chatbots.
 
-She moves easily between languages, human and programming: fluent in Spanish, with advanced proficiency in French and Portuguese, and equally at home in Python, SQL, PyTorch, and JAX.
+She moves easily between languages, human and programming: fluent in Spanish, with advanced proficiency in French and Portuguese, and equally at home in Python, SQL, and PyTorch.
